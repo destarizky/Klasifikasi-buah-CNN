@@ -1,4 +1,4 @@
-Fruits 360
+#Fruits 360
 Sebuah dataset berisi gambar buah dan sayuran.
 
 Properti Dataset:
